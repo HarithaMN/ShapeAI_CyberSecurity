@@ -1,0 +1,7 @@
+-------------------------------------------------------------
+Weather Stats for - KOTTAYAM  || 22 Jun 2021 | 11:21:18 PM
+-------------------------------------------------------------
+Current temperature   : 25.01 deg C
+Current weather desc  :overcast clouds
+Current Humidity      :94%
+Current wind speed    :0.74 kmph
